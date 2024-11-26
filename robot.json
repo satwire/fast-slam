@@ -1,0 +1,8 @@
+{
+    "prior_prob": 0.5,
+    "occupy_prob": 0.9,
+    "free_prob": 0.35,
+    "num_sensors": 20,
+    "radar_length": 200,
+    "radar_range": 210
+}
